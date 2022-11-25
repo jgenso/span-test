@@ -23,4 +23,4 @@ jobs:
           FROM_BRANCH: "beta"
           TO_BRANCH: "main"
           CONTENT_COMPARISON: true
-          REVIEWERS: ["gdayreiss", "alcgenso", "marcelorodcla", "jgenso"]
+          REVIEWERS: '["gdayreiss", "alcgenso", "marcelorodcla", "jgenso"]'
