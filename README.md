@@ -1,5 +1,6 @@
 ## sbt project compiled with Scala 3
 
+
 ### Usage
 
 The following alternatives are available to run the app:
