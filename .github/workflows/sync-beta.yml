@@ -22,3 +22,5 @@ jobs:
           GITHUB_TOKEN: ${{secrets.SYNC_TOKEN}}
           FROM_BRANCH: "main"
           TO_BRANCH: "beta"
+          CONTENT_COMPARISON: true
+          REVIEWERS: ["gdayreiss", "alcgenso", "marcelorodcla", "jgenso"]
